@@ -1,5 +1,5 @@
 # C-John-Rambo-Shooting-game
-C++ Console Based Shooting Game Complete Project ->Including SFML library for audio (Visual Studio 2022).
+C++ Console Based Shooting Game
 <br>
 <br>
 Rules:
