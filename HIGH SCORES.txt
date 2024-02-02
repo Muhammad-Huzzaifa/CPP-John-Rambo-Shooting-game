@@ -1,0 +1,10 @@
+Player1: 987
+Player2: 902
+Player3: 846
+Player4: 800
+Player5: 673
+Player6: 656
+Player7: 606
+Player8: 572
+Player9: 488
+Player10: 488
