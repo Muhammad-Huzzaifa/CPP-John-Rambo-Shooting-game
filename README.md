@@ -10,3 +10,6 @@ Rules:
 4. Level 2 is reached when you moved a 5000m distance, or after destroying 10 tanks.
 5. Live is added after destroying 5 crates.
 <br>
+<br>
+To run the second .cpp file (with sfml and file handeling), you first need to include the sfml library in your project, then add any two sounds named (Game_sound1 & Game_sound2), remember that these two audios are must of wave type, ogg type, and flac type. No other type of audio is included using sfml in c++. And secondly you need to include the HIGH_SCORE.txt file or simply download it from above.
+<br>
